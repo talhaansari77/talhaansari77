@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @talhaansari77 (Muhammad Talha)
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning React-Native
+- 🌱 Software Developer
 - 📫 How to reach me help@demobytalha.tk
 
 <!---
