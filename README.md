@@ -2,9 +2,9 @@
 
 ### Mobile Developer | React Native Developer
 
-I build clean, modern, and practical mobile apps using **React Native**, with a focus on smooth UI, strong performance, and real-world usability.
+I am a Mobile Developer focused on building cross-platform applications using React Native. I enjoy creating clean, user-friendly, and reliable mobile apps for Android and iOS, with strong attention to UI quality, performance, API integration, and practical user experience.
 
-I enjoy working across the full app flow — from mobile screens and reusable components to APIs, Firebase, databases, and backend integrations.
+I have experience working with mobile apps, web applications, backend integrations, and database-driven systems. My development background includes React Native, JavaScript, TypeScript, Firebase, REST APIs, Node.js, PHP/Laravel, MySQL, and ASP.NET MVC.
 
 ---
 
