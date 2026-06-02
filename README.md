@@ -2,9 +2,10 @@
 
 ### Mobile Developer | React Native Developer
 
-I am a Mobile Developer focused on building cross-platform applications using React Native. I enjoy creating clean, user-friendly, and reliable mobile apps for Android and iOS, with strong attention to UI quality, performance, API integration, and practical user experience.
-
-I have experience working with mobile apps, web applications, backend integrations, and database-driven systems. My development background includes React Native, JavaScript, TypeScript, Firebase, REST APIs, Node.js, PHP/Laravel, MySQL, and ASP.NET MVC.
+![Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Muhammad Talha Banner" width="100%" />
+</p>
 
 ---
 
