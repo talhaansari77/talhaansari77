@@ -1,10 +1,10 @@
-# Hey, I'm Muhammad Talha 👋
-
-### Mobile Developer | React Native Developer
-
 <p align="center">
   <img src="./banner.png" alt="Muhammad Talha Banner" width="100%" />
 </p>
+
+# Hey, I'm Muhammad Talha 👋
+
+### Mobile Developer | React Native Developer
 
 ---
 
