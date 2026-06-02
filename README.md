@@ -70,9 +70,13 @@ I enjoy working across the full app flow — from mobile screens and reusable co
 
 ---
 
-## 🌱 Currently Improving
+📊 GitHub Stats
 
-**Advanced React Native architecture, TypeScript, app performance, clean code, and scalable mobile development.**
+
+
+
+
+
 
 ---
 
@@ -84,4 +88,6 @@ I enjoy working across the full app flow — from mobile screens and reusable co
 
 ---
 
-> Building apps. Learning daily. Improving with every project. 🚀
+⚡ Personal Motto
+
+Keep learning, keep building, and turn ideas into useful digital products.
