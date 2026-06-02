@@ -2,7 +2,6 @@
 
 ### Mobile Developer | React Native Developer
 
-![Banner](./banner.png)
 <p align="center">
   <img src="./banner.png" alt="Muhammad Talha Banner" width="100%" />
 </p>
